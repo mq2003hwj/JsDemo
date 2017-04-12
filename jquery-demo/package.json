@@ -1,0 +1,14 @@
+{
+  "name": "jquery-demo",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+  },
+  "dependencies": {
+
+  },
+  "scripts": {
+    "start":"index.html"
+  },
+  "proxy": "http://fp.ymatou.cn/"
+}

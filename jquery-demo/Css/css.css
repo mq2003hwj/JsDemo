@@ -1,0 +1,42 @@
+h1{
+  font-size: 50px;
+}
+
+.txt{
+    width: 100px;
+}
+
+#left{
+  float:left;
+  height: 30px;
+}
+#middle{
+  text-align: center;
+  width:auto;
+  height: 30px;
+}
+#right{
+  float:right;
+  height: 30px;
+}
+#clear{
+  clear: both;
+  height: 30px;
+}
+#down{
+  margin-top:10px;
+}
+.tb{
+  border-collapse: collapse;
+  width:100%;
+  padding: 0;
+}
+th{
+  border:1px solid black;
+}
+td{
+  border:1px solid black;
+}
+#nodata{
+  visibility: hidden;
+}
